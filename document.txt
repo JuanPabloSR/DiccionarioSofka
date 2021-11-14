@@ -1,0 +1,4 @@
+
+perro = dog
+gato = cat
+cerveza = beer
